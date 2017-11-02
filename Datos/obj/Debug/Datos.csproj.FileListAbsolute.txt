@@ -1,0 +1,10 @@
+D:\Tesis\Aplicacion\webPetApp\Datos\bin\Debug\Datos.dll
+D:\Tesis\Aplicacion\webPetApp\Datos\bin\Debug\Datos.pdb
+D:\Tesis\Aplicacion\webPetApp\Datos\bin\Debug\Entidad.dll
+D:\Tesis\Aplicacion\webPetApp\Datos\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tesis\Aplicacion\webPetApp\Datos\bin\Debug\Entidad.pdb
+D:\Tesis\Aplicacion\webPetApp\Datos\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tesis\Aplicacion\webPetApp\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Tesis\Aplicacion\webPetApp\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Tesis\Aplicacion\webPetApp\Datos\obj\Debug\Datos.dll
+D:\Tesis\Aplicacion\webPetApp\Datos\obj\Debug\Datos.pdb

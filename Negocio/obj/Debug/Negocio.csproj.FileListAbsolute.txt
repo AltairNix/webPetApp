@@ -1,0 +1,10 @@
+D:\Tesis\Aplicacion\webPetApp\Negocio\bin\Debug\Negocio.dll
+D:\Tesis\Aplicacion\webPetApp\Negocio\bin\Debug\Negocio.pdb
+D:\Tesis\Aplicacion\webPetApp\Negocio\bin\Debug\Datos.dll
+D:\Tesis\Aplicacion\webPetApp\Negocio\bin\Debug\Entidad.dll
+D:\Tesis\Aplicacion\webPetApp\Negocio\bin\Debug\Datos.pdb
+D:\Tesis\Aplicacion\webPetApp\Negocio\bin\Debug\Entidad.pdb
+D:\Tesis\Aplicacion\webPetApp\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Tesis\Aplicacion\webPetApp\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Tesis\Aplicacion\webPetApp\Negocio\obj\Debug\Negocio.dll
+D:\Tesis\Aplicacion\webPetApp\Negocio\obj\Debug\Negocio.pdb

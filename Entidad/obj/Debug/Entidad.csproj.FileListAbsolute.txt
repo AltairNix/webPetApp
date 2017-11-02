@@ -1,0 +1,5 @@
+D:\Tesis\Aplicacion\webPetApp\Entidad\bin\Debug\Entidad.dll
+D:\Tesis\Aplicacion\webPetApp\Entidad\bin\Debug\Entidad.pdb
+D:\Tesis\Aplicacion\webPetApp\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\Tesis\Aplicacion\webPetApp\Entidad\obj\Debug\Entidad.dll
+D:\Tesis\Aplicacion\webPetApp\Entidad\obj\Debug\Entidad.pdb
